@@ -13,3 +13,4 @@ C:\Users\Student\source\repos\RPP_Lists\exe_6\obj\Debug\net5.0\exe_6.dll
 C:\Users\Student\source\repos\RPP_Lists\exe_6\obj\Debug\net5.0\ref\exe_6.dll
 C:\Users\Student\source\repos\RPP_Lists\exe_6\obj\Debug\net5.0\exe_6.pdb
 C:\Users\Student\source\repos\RPP_Lists\exe_6\obj\Debug\net5.0\exe_6.genruntimeconfig.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_6\obj\Debug\net5.0\exe_6.csproj.AssemblyReference.cache

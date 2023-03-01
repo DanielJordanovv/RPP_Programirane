@@ -17,15 +17,15 @@ namespace exe_6
             List<string> mix = new List<string>();
             for (int i = 0; i < words.Count; i++)
             {
-                if (words[i].First() == words[i].ToLower().First() )
+                if (words[i].First() == words[i].ToLower().First() && words[i].All(x=>char.IsLetter(x)))
                 {
                     lc.Add(words[i]);
                 }
-                else if (words[i] == words[i].ToUpper() )
+                else if (words[i] == words[i].ToUpper() && words[i].All(x => char.IsLetter(x)))
                 {
                     uc.Add(words[i]);
                 }
-                else
+                else 
                 {
                     mix.Add(words[i]);
                 }
