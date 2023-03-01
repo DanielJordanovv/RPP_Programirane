@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.exe
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.deps.json
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.runtimeconfig.json
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.runtimeconfig.dev.json
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\ref\exe_7.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_7\bin\Debug\net5.0\exe_7.pdb
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.AssemblyInfo.cs
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\ref\exe_7.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.pdb
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.genruntimeconfig.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_7\obj\Debug\net5.0\exe_7.csproj.AssemblyReference.cache

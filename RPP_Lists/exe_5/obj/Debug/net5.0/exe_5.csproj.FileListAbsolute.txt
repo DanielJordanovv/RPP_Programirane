@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.exe
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.deps.json
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.runtimeconfig.json
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.runtimeconfig.dev.json
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\ref\exe_5.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_5\bin\Debug\net5.0\exe_5.pdb
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.AssemblyInfo.cs
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\ref\exe_5.dll
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.pdb
+C:\Users\Student\source\repos\RPP_Lists\exe_5\obj\Debug\net5.0\exe_5.genruntimeconfig.cache
